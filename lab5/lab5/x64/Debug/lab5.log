@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  lab5.cpp
+C:\Users\FlashMan_I\source\repos\lab5\lab5.cpp(37,36): warning C5307: 'System::String::String(wchar_t,int)': argument (1) converted from 'char' to 'wchar_t'. Missing 'L' encoding-prefix for character literal?
+  (компиляция исходного файла "/lab5.cpp")
+  
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  lab5.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lab5.vcxproj -> C:\Users\FlashMan_I\source\repos\lab5\x64\Debug\lab5.exe
